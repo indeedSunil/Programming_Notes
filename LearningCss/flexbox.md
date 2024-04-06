@@ -20,7 +20,7 @@ This element is called the flex container, and stores the sub-elements which are
 - no wrap ( default) 
   
 By using this property we can make our elements responsive for different screen sizes.
- 
+ ![alt text](<Screenshot 2024-04-05 234215.png>)
 3: Justify content
 <br>
 This property is used to set the position of content or rather align content along the main axis.
